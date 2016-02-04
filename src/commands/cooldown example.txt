@@ -1,0 +1,20 @@
+//const cooldownTime = 5000;
+
+//export default {
+//  gif: (bot, msg, suffix) => {
+//	//checks for (lack of) suffix
+//    if (!suffix) {
+//      bot.sendMessage(msg.channel, 'Usage: **`!gif`** `gif tags`');
+//      return;
+//    }
+//	//checks for cooldown
+//	if (!cooldown) {
+//		//sets suffix to tag var; calls giphy function
+//		let tags = suffix.split(' ');
+//		giphy(bot, msg, tags);
+//	}
+//	else {
+//			bot.sendMessage(msg.author, 'Giphy on cooldown for `' + cooldownTime + '` ms.'); //change to sec
+//	}
+//  }
+//};

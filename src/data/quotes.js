@@ -1,29 +1,14 @@
 export default [
   'Born too late to explore the earth\nBorn too soon to explore the galaxy\nBorn just in time to **browse dank memes**',
-  'Don\'t let your dreams be memes. - *Shia LaBeouf*',
   'Feels good man. - *Pepe*',
-  'Going to church doesn’t make you a Christian any more than standing in a garage makes you a car. - *Billy Sunday*',
-  'How is it one careless match can start a forest fire, but it takes a whole box to start a campfire?',
-  'I always arrive late at the office, but I make up for it by leaving early. - *Charles Lamb*',
-  'I asked God for a bike, but I know God doesn’t work that way. So I stole a bike and asked for forgiveness. - *Emo Philips*',
-  'I couldn’t repair your brakes, so I made your horn louder. - *Steven Wright*',
-  'I dream of a better tomorrow, where chickens can cross the road and not be questioned about their motives.',
-  'I dream of a better tomorrow, where chickens can cross the road and not be questioned about their motives.',
-  'I hate when old people poke you at a wedding and say you\'re next. So when I was at a funeral I poked them and said you\'re next.',
-  'I intend to live forever. So far, so good. - *Steven Wright*',
-  'I like to beat the brush. - *Bob Ross*',
-  'I think the worst time to have a heart attack is during a game of charades. - *Demetri Martin*',
-  'Jet fuel can\'t melt steel beams. - *Barack Obama*',
-  'Jet fuel can\'t melt steel memes. - *Barack Obama*',
-  'Just do it. - *Shia Labeouf*',
-  'Just tap it. - *Bob Ross*',
-  'My favorite machine at the gym is the vending machine.',
+  '(tux while ordering a pizza) \
+  **Female worker**: Thank you for calling dominos pizza. \
+  **Tux**: Hello. Uhm, I just ordered a pizza, the two medium two custom made pizzas, right?  \
+  **Female worker**: Yes, can you please hold? I\'m sorry. \
+  **Tux**: Y-yeah y-you too.',
   'Press F to pay respects.',
-  'Shwooop. Hehe. You have to make those little noises, or it just doesn\'t work. - *Bob Ross*',
-  'That\'ll be our little secret. - *Bob Ross*',
-  'The only mystery in life is why the kamikaze pilots wore helmets. - *Al McGuire*',
-  'The only thing worse than yellow snow is green snow. - *Bob Ross*',
-  'There\'s nothing wrong with having a tree as a friend. - *Bob Ross*',
-  'We don\'t make mistakes, just happy little accidents. - *Bob Ross*',
-  'When tempted to fight fire with fire, remember that the Fire Department usually uses water.'
+  'My splits are fine. - *tuxwizzle*',
+  'Y-yeah y-you too. - *tuxwizzle*',
+  '**Tux**: Uhh, Undertale. You can do a quick google search. E Z. It\'s like Under, like under your bed. What\'s under your blanket? then Tale, T A L E. You can just pick a random character and you can just draw something from it.',
+  'i got a hard drive. how about we go back to my place... so i can unzip you - *tuxwizzle*'
 ];
